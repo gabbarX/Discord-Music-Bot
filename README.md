@@ -2,6 +2,12 @@
 ![image](https://user-images.githubusercontent.com/35624536/163665220-f25d3dce-83f7-4bab-a74c-aeec9534c2ea.png)
 A basic music bot that integrates with discord and perform various functions.
 
+## Snapshots
+![image](https://user-images.githubusercontent.com/35624536/163665935-54d75087-7ae8-4187-b598-6fa95cfe96e7.png)
+![image](https://user-images.githubusercontent.com/35624536/163665945-d5f8b095-47f1-4190-9d1b-208acbb04a8f.png)
+![image](https://user-images.githubusercontent.com/35624536/163665957-9614cc99-ef6a-4c87-a368-7ffe5968c582.png)
+
+
 ## Modules used
 - discord
 - youtube-dl

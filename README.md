@@ -31,7 +31,10 @@ pip install discord
 pip install youtube-dl
 ```
 ## Details
-This project meakes use of FFMPEG to play music via the bot's voice output.
+This project makes use of FFMPEG to play music via the bot's voice output.
 FFmpeg is a free and open-source software project consisting of a suite of libraries and programs for handling video, audio, and other multimedia files and streams. 
 At its core is the command-line ffmpeg tool itself, designed for processing of video and audio files.
 
+## Contact
+You can reach out to me via email on ankit.rr528@gmail.com
+or on discord via username and tag - G A B B A R#2180

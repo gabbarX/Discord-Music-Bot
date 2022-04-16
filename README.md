@@ -3,8 +3,8 @@
 A basic music bot that integrates with discord and perform various functions.
 
 ## Modules used
--discord
--youtube-dl
+- discord
+- youtube-dl
 
 ## Configuration
 You need a valid discord bot token to use this bot.
